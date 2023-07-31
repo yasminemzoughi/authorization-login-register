@@ -1,0 +1,9 @@
+.profile{
+    margin: 2%;
+}
+.buttons{
+display: flex;
+justify-content:space-between;
+margin: 6%;
+
+}

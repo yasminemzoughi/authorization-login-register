@@ -1,0 +1,14 @@
+.my-nav {
+    background-color:#5bba6f
+
+}
+.navbar-nav {
+    justify-content: center; /* Center the links horizontally */
+  }
+  .nav-home{margin-right: 90%;}
+  .nav-link {
+    margin: 0 10px; }
+    .reg{
+        display: flex;
+        margin-left: 370%;
+    }
